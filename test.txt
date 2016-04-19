@@ -1,0 +1,912 @@
+#general Star
+10 membersView member list (4/10 online)
+|
+COINSE Lab General Chat
+Only paid teams can start calls from channels.
+Channel SettingsHide Channel Details
+Show Mentions & ReactionsShow Starred ItemsMore Items
+ *bold* _italics_ ~strike~ `code` ```preformatted``` >quote
+
+CHANNELS (9)
+announcement
+decorate2417
+general
+random
+
+DIRECT MESSAGES (10)
+slackbot
+ bhyou
+ heejongahn
+ jjsohn
+ junhwi
+ ntrolls
+ rhapsodyjs
+ subcurrent
+ zoonoo
+Quick Switcher⌘K
+And more...
+
+----- April 8th -----
+rhapsodyjs [2:07 PM] 
+:grinning:
+
+bohrok [2:07 PM] 
+넵 알겠습니다
+
+ntrolls [2:07 PM] 
+LNCS 포맷으로 6페이지는 정말 짧으니까, 쓰는 것 보다는 먼저 뭘 할지 생각하는 게 훨씬 중요한 문제일 거에요.
+
+[2:08] 
+UCL CREST에서도 다음 주에 challenge track 아이디어 정하고 프로젝트 kick-off하는 code jam 할 예정이니까 시간은 우리랑 똑같음 :stuck_out_tongue:
+
+ntrolls [2:36 PM] 
+참 @jjsohn 위원장님 저희 정산은 어떻게 하나요
+
+jjsohn [2:36 PM] 
+잠시만요;;
+
+jjsohn [2:43 PM] 
+진석씨만 빼고 저한테 14500원씩 주시면 됩니다.
+
+[2:43] 
+https://docs.google.com/spreadsheets/d/1Q76O9LhqIMiZFRq_NsM--ucll8hZzI-u9-0xqo1HDZQ/edit#gid=0
+
+[2:44] 
+제 계좌는 110-323-585504 신한입니다.
+
+ntrolls [2:49 PM] 
+done.
+
+jjsohn [2:49 PM] 
+넵
+
+junhwi [10:35 PM] 
+done
+
+ntrolls [10:38 PM] 
+@junhwi: 케이블 더 필요한 거 있었어요? HDMI밖에 생각이 안났음;;
+
+junhwi [10:40 PM] 
+전원케이블은 어제 주신거 쓰면 되는 건가요?
+
+[10:40] 
+프로젝터꺼라고 하신거 같은데...
+
+ntrolls [10:40 PM] 
+아 그것도 더 샀어요
+
+junhwi [10:40 PM] 
+아 그러면 HDMI만 있으면 될듯 합니다
+
+ntrolls [10:40 PM] 
+ok :simple_smile:
+
+junhwi [10:40 PM] 
+감사합니다~
+
+
+----- April 9th -----
+bhyou [11:51 AM] 
+저도 HDMI 필요합니다.
+
+rhapsodyjs [10:29 PM] 
+all hail mockito
+
+[10:29] 
+정말 좋은 툴이군요..
+
+ntrolls [11:26 PM] 
+@rhapsodyjs: 오 한 수 가르침을 기다리고 있겠음;;;
+
+[11:26] 
+@bhyou: 저번날 누구한테선가 빌려서 지금 쓰고 있는 거 아니었나요?
+
+
+----- April 10th -----
+bhyou [11:42 AM] 
+빌렀었는데, 다시 필요하시다고 하셔서요.
+
+bohrok [9:57 PM] 
+네 제가 dp로 연결해서 사용하고 hdmi가 남아서 빌려드렸었는데 dp로 모니터 피벗을 해보니 화면이 제대로 안나와서 hdmi가 다시 필요해 졌습니다
+
+ntrolls [9:58 PM] 
+@bhyou @bohrok 내일 오전에 잠깐 학교 들를 건데, 정주씨한테 구입할 수 있게 해놓을게요.
+
+bohrok [9:58 PM] 
+네 알겠습니다
+
+
+----- April 11th -----
+bhyou [11:12 AM] 
+!ㅁㄴ 동측 점심
+
+menubotBOT [11:12 AM] 
+동맛골: 점심
+<Cafeteria>    
+고구마샐러드    ₩600
+양상추샐러드    ₩400
+과일샐러드    ₩1,500
+깍두기    ₩300
+배추김치    ₩300
+컵과일    ₩600
+오곡밥    ₩800
+잡곡밥    ₩500
+쌀밥    ₩500
+김칫국    ₩500
+돈육고추장볶음    ₩1,400
+오징어굴소스볶음    ₩1,200
+가자미구이    ₩1,200
+자장소스    ₩700
+치킨너겟    ₩1,000
+메추리알장조림    ₩600
+돌나물숙회    ₩400
+청경채나물    ₩500
+건파래볶음    ₩400
+어묵탕수    ₩800
+
+<Chef choice>    
+라조육덮밥    
+
+<Hot bowl>    
+햄모듬찌개&라면사리    
+
+<International>    
+브로컬리볶음밥 우육/뉴질랜드산    (할랄)
+
+<Noodle>    
+열무물국수
+
+bhyou [11:13 AM] 
+컵과일을 컴파일로 봤네요;;;
+
+ntrolls [11:41 AM] 
+!메뉴 카이마루 점심
+
+menubotBOT [11:41 AM] 
+카이마루: 어딘지 모르겠어요.
+다음 중 한 곳 식당을 지정해주세요:
+북측, 동측, 문지, 서측, 교수회관, 동교, 화암
+
+ntrolls [11:41 AM] 
+!메뉴 북측 점심
+
+menubotBOT [11:41 AM] 
+카이마루: 점심
+쌀밥&잡곡밥(쌀:국내산)
+김치수제비국(배추:국내산,고추분:중국산)
+돼지고기매콤볶음(돈육:덴마크산)
+청어강정(청어:국내산)
+떡갈비구이(돈육:국내산)
+고구마맛탕
+김치전(배추:국내산,고추분:중국산)
+비빔당면
+열무나물
+상추무침
+일미채무침
+김치(배추:국산,고추분:중국산)
+양배추샐러드
+흑깨두부샐러드
+파인애플젤리
+
+★일품메뉴★
+소금구이부추비빔밥&일식된장국&단무지
+(돈육:덴마크산)
+
+junhwi [11:48 AM] 
+!메뉴 서측 점심
+
+menubotBOT [11:48 AM] 
+서맛골: 점심
+쌀밥
+김치떡국
+매콤깐풍기
+두부찜(장)
+맛살숙주나물무침
+깍두기
+양배추샐러드
+
+(일품)
+전주비빔밥*계란후라이
+
+(누들)
+비빔국수
+
+ntrolls [1:09 PM] 
+점점 장거리 여행가는 데 둔감해진다고는 하지만...
+
+[1:09] 
+아직 짐도 안싸고 환전도 안했다니 좀 방만;;;
+2  
+
+[1:10] 
+인터넷 환전도 하루 전에만 가능하군요 음...
+
+jjsohn [1:10 PM] 
+ㅋㅋㅋㅋㅋ짐은 싸셔야죠;;;;;
+
+ntrolls [1:10 PM] 
+바가지 좀 쓰겠네;;;
+
+jjsohn [1:10 PM] 
+환전은 가서 하시는 게;;;아님 지금이라도 은행을 가셔서;;;
+
+rhapsodyjs [1:10 PM] 
+거기 가서 환전 안되나요??
+
+ntrolls [1:10 PM] 
+그쪽 가서 하면 더 손해일 것 같은데...
+
+rhapsodyjs [1:10 PM] 
+전 맨날 공항에서 했던것같은데;;
+
+[1:10] 
+바가지를 써왔단 말인가..
+
+ntrolls [1:10 PM] 
+공항보다 은행이 나을까? -_-;;
+
+jjsohn [1:10 PM] 
+넵
+
+ntrolls [1:11 PM] 
+아 미리 하면 환율이 더 좋죠.
+
+[1:11] 
+학교 안 우리은행에 USD…는 좀 있겠지? 그럼 가봐야겠습니다 -_-;;
+
+rhapsodyjs [1:21 PM] 
+잘 다녀오세욤
+
+junhwi [1:21 PM] 
+잘 다녀오세욤 (2)
+
+rhapsodyjs [5:10 PM] 
+akka를 이용해 스칼라로 distributed evolutionary computing 라이브러리를 만들면 어떨까요..ㅎ
+
+ntrolls [5:16 PM] 
+@rhapsodyjs: 금방 만들 수 있음? -_-/
+
+rhapsodyjs [5:16 PM] 
+방학동안에...
+
+ntrolls [5:16 PM] 
+deadline...
+
+rhapsodyjs [5:17 PM] 
+challenge track 을 염두에 두고 드린 말씀은 아니었습니다 ㅎㅎ 근데 저거 만들어도 challenge track 낼 수 있나요?
+
+ntrolls [5:18 PM] 
+흠 글쎄요 :simple_smile:
+
+[5:18] 
+그건 akka에 apply한 게 아니라고 할 지도...
+
+[5:18] 
+아아 막힌다 (…)
+
+bohrok [5:36 PM] 
+@rhapsodyjs: akka, distributed evolutionary computing 라이브러리
+
+[5:36] 
+이야기가 나온 경위는 어떻게 되죠?
+
+[5:36] 
+궁금
+
+rhapsodyjs [5:36 PM] 
+음
+
+[5:36] 
+아카 documentation 살펴보고 있었는데
+
+[5:37] 
+되게 neat 한 툴인 것 같아서
+
+[5:37] 
+어디다가 써먹을 수 있을까 고민하다가
+
+[5:37] 
+지난 번에 교수님이 스칼라로 ga library 만들자고 하신 게 기억이 났네요
+
+[5:38] 
+기존의 ga library들 (ECJ, PyEvolve) 등은 distributed computation 을 지원하지 않기도 하구요
+
+bohrok [5:38 PM] 
+홍홍홍 그렇군요
+
+rhapsodyjs [5:39 PM] 
+물론 저는 스칼라를 쓸 줄 몰라서 (...)
+
+[5:39] 
+얼마나 어려울 지는 감이 안옴..
+
+[5:41] 
+근데 지금 생각해보니
+
+[5:41] 
+ga 에서 distributed computing 이 필요한 경우가 population evaluation 할 때인데
+
+[5:42] 
+이 경우 계산을 분산시키기 위해서 각 액터에 메세지를 던져주는 오버헤드가 실제 계산하는 시간보다 클 수도 있겠다는 생각이..
+
+bohrok [5:42 PM] 
+얼른 빨리 랩에 있는 evolutionary computing 책을 읽어야 겠다..
+
+ntrolls [7:15 PM] 
+!메뉴 라운지 저녁
+
+menubotBOT [7:15 PM] 
+라운지: 어딘지 모르겠어요.
+다음 중 한 곳 식당을 지정해주세요:
+북측, 동측, 문지, 서측, 교수회관, 동교, 화암
+
+ntrolls [7:15 PM] 
+Cheese in tube :(
+
+ntrolls [7:15 PM] 
+uploaded an image: Slack for iOS Upload 
+Add Comment
+rhapsodyjs [7:15 PM] 
+ㅋㅋㅋㅋㅋ
+
+[7:15] 
+맛있나여
+
+ntrolls [7:16 PM] 
+알면서 이 치즈 맛...
+
+[7:16] 
+기내에서 또 먹을거면서 배고픔을 참지 못하고 본전 생각에 그만...
+
+rhapsodyjs [7:16 PM] 
+근데 라운지 가시는거 보니
+
+[7:16] 
+비즈니스석?!
+
+ntrolls [7:16 PM] 
+아니;;;
+
+[7:17] 
+멤버십 등급만 높음. 좌석은 이코노미;;
+
+rhapsodyjs [7:17 PM] 
+ㅜ.ㅜ
+
+[7:17] 
+미국까지 이코노미로...흑..
+
+
+----- April 12th -----
+ntrolls [9:19 AM] 
+Touchdown :flag-us:
+
+bhyou [9:19 AM] 
+비행기에서 장시간 수고하셨습니다.
+
+rhapsodyjs [9:20 AM] 
+to the new world!
+
+[9:20] 
+수고하셨습니다ㅎㅎ
+
+jjsohn [9:39 AM] 
+수고하셨습니다ㅎ
+
+rhapsodyjs [11:29 AM] 
+!ㅁㄴ 동측 점심
+
+[11:34] 
+!ㅁㄴ 동측 점심
+
+menubotBOT [11:34 AM] 
+동맛골: 점심
+<Cafeteria>    
+메추리알샐러드    ₩600
+양상추샐러드    ₩400
+과일샐러드    ₩1,500
+총각김치    ₩400
+배추김치    ₩300
+컵과일    ₩600
+오곡밥    ₩800
+잡곡밥    ₩500
+쌀밥    ₩500
+사골국    ₩500
+닭고기야채볶음    ₩1,300
+고추잡채&꽃빵    ₩1,200
+스팸구이    ₩1,000
+하이스소스    ₩700
+감자크로켓    ₩700
+계란후라이    ₩400
+청포묵무침    ₩500
+우엉채조림    ₩400
+오징어실채무침    ₩500
+양배추쌈    ₩600
+
+<Chef choice>    
+추억의돌솥밥    
+
+<Hot bowl>    
+돈육콩나물불고기    
+
+<International>    
+참치생야채비빔밥    
+
+<Noodle>    
+돈가스우동
+
+junhwi [12:04 PM] 
+!ㅁㄴ 서측
+
+menubotBOT [12:04 PM] 
+서맛골
+아침
+쌀밥
+계란국
+돈채부추볶음
+들깨무나물
+포기김치
+누릉지탕
+
+(죽)
+검정깨죽
+
+
+점심
+쌀밥
+시금치된장국
+닭도리탕
+부추김치전(장)
+콩나물무침
+깍두기
+적채샐러드
+
+(일품)
+마파두부덮밥
+
+#진국#
+돼지김치찌개
+
+저녁
+쌀밥
+수제비감자국
+사태무찜
+사각어묵볶음
+미역초무침
+포기김치
+야채샐러드
+비빔밥코너
+
+(일품)
+콩나물밥*양념장
+
+ntrolls [12:05 PM] 
+uploaded an image: Slack for iOS Upload 
+Add Comment
+ntrolls [12:05 PM] 
+@jjsohn :stuck_out_tongue_winking_eye:
+
+jjsohn [12:05 PM] 
+............
+
+ntrolls [12:06 PM] 
+아니 그렇게 충격받으면 미안하잖아;;;
+
+jjsohn [12:07 PM] 
+맛있게 드세요ㅠㅠㅠ저희 몫까지;;
+
+rhapsodyjs [12:07 PM] 
+헉
+
+[12:07] 
+완전 밥도둑
+
+[12:07] 
+이 아니라 시카고 피자였군요
+
+bhyou [3:53 PM] 
+!ㅁㄴ 동측
+
+menubotBOT [3:53 PM] 
+동맛골
+아침
+<Set menu>
+쌀밥
+미역국
+햄김치볶음
+마늘쫑무침
+무생채
+누룽지/김구이
+
+
+
+<Gruel>
+게맛살죽
+
+
+
+점심
+<Cafeteria>    
+메추리알샐러드    ₩600
+양상추샐러드    ₩400
+과일샐러드    ₩1,500
+총각김치    ₩400
+배추김치    ₩300
+컵과일    ₩600
+오곡밥    ₩800
+잡곡밥    ₩500
+쌀밥    ₩500
+사골국    ₩500
+닭고기야채볶음    ₩1,300
+고추잡채&꽃빵    ₩1,200
+스팸구이    ₩1,000
+하이스소스    ₩700
+감자크로켓    ₩700
+계란후라이    ₩400
+청포묵무침    ₩500
+우엉채조림    ₩400
+오징어실채무침    ₩500
+양배추쌈    ₩600
+
+<Chef choice>    
+추억의돌솥밥    
+
+<Hot bowl>    
+돈육콩나물불고기    
+
+<International>    
+참치생야채비빔밥    
+
+<Noodle>    
+돈가스우동    
+
+
+저녁
+<Set menu>
+잡곡밥
+(뚝)순두부매운국
+너비아니계란전
+채소잡채
+고구마순들깨나물
+배추김치
+
+<Hot bowl>
+뼈해장국
+
+<lnternational>
+닭칼국수
+
+bhyou [3:54 PM] 
+!ㅁㄴ 서측 저녁
+
+menubotBOT [3:54 PM] 
+서맛골: 저녁
+쌀밥
+수제비감자국
+사태무찜
+사각어묵볶음
+미역초무침
+포기김치
+야채샐러드
+비빔밥코너
+
+(일품)
+콩나물밥*양념장
+
+
+----- April 13th -----
+bohrok [12:06 PM] 
+!ㅁㄴ 서측 점심
+
+menubotBOT [12:06 PM] 
+서맛골: 점심
+쌀밥
+어묵국
+돈목살간장불고기
+계란찜
+상추겉절이
+포기김치
+그린샐러드
+
+(일품)
+야채볶음밥*계란후라이
+
+bohrok [12:06 PM] 
+!ㅁㄴ 점심
+
+menubotBOT [12:06 PM] 
+점심: 어딘지 모르겠어요.
+다음 중 한 곳 식당을 지정해주세요:
+북측, 동측, 문지, 서측, 교수회관, 동교, 화암
+
+bohrok [12:06 PM] 
+!ㅁㄴ 동측 점심
+
+menubotBOT [12:06 PM] 
+동맛골: 점심
+<Set menu>    
+미니냉메밀소바    
+등심돈가스    
+김가루양념밥    
+계란찜    
+배추겉절이    
+양배추샐러드&흑임자드레싱    
+오렌지    
+
+<Chef choice>
+떡만둣국
+
+rhapsodyjs [4:23 PM] 
+!ㅁㄴ 동측 저녁
+
+menubotBOT [4:24 PM] 
+동맛골: 저녁
+<Set menu>
+잡곡밥
+(뚝)참치김치찌개
+메밀만두찜
+스크램블에그
+청경채버섯볶음
+무생채
+
+rhapsodyjs [4:24 PM] 
+!ㅁㄴ 서측 저녁
+
+
+----- April 14th -----
+ntrolls [3:01 AM] 
+ICST 2017: 3월 13-18일 동경
+
+[3:02] 
+Research track deadline: 9월 23일!
+
+bohrok [2:01 PM] 
+가깝군요!
+
+junhwi [3:59 PM] 
+혹시 제 책상에 HDMI케이블 누가 가져가셨나요…?
+
+bhyou [4:00 PM] 
+제가 빌렸습니다.
+
+junhwi [4:00 PM] 
+아
+
+[4:00] 
+넵ㅋㅋ
+
+bhyou [4:00 PM] 
+컴에서 떼서 가져가셔도 되요..
+
+junhwi [4:00 PM] 
+네ㅎㅎ
+
+jjsohn [4:01 PM] 
+저희 케이블 사러 갑시다;;;
+
+junhwi [4:01 PM] 
+ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+
+jjsohn [4:02 PM] 
+이제 서로 그만 빌리고;;
+
+bohrok [8:57 PM] 
+내일 마찬가지로 10시에 모이는 건가요?
+
+jjsohn [8:58 PM] 
+넵 내일 10시입니다.
+
+bohrok [8:59 PM] 
+진행은 각 target program에 대해서 한명씩 소개하고 토론하는 건가요?
+
+[8:59] 
+소개하는 사람은 저번에 하기로 한사람?
+
+jjsohn [9:01 PM] 
+넵 전에 각자 하기로 한 사람이 맡은 부분에 대해서 하면 됩니다.
+
+
+----- April 15th -----
+
+IFTTT BOT [7:20 AM] 
+ 
+Rain tomorrow!
+Rain tomorrow!
+
+bohrok [10:33 AM] 
+https://www.toptal.com/scala/concurrency-and-fault-tolerance-made-easy-an-intro-to-akka
+Toptal Engineering Blog
+Concurrency and Fault Tolerance Made Easy:  An Akka Tutorial with Examples
+Concurrency and Fault Tolerance are difficult. The Scala Actor Model, more specifically, Akka, can help. Check out these examples. (32KB)
+
+rhapsodyjs [5:46 PM] 
+!ㅁㄴ 동측 저녁
+
+menubotBOT [5:46 PM] 
+동맛골: 저녁
+<Set menu>
+잡곡밥
+콩나물국
+참치야채볶음(자율배식)
+등심돈가스
+감자고추장조림
+무생채
+
+
+<Hot bowl>
+짬뽕
+
+<Take out>
+매콤해물컵밥/햄치즈샐러드
+
+rhapsodyjs [5:46 PM] 
+!ㅁㄴ 서측 저녁
+
+menubotBOT [5:46 PM] 
+서맛골: 저녁
+쌀밥
+볶음미역국
+고구마닭갈비
+도토리묵오이무침
+숙주나물
+포기김치
+야채샐러드
+비빔코너
+
+(일품)
+김치볶음밥*계란후라이
+
+ntrolls [10:53 PM] 
+uploaded an image: :coffee::coffee::coffee::coffee: 
+Add Comment
+1  
+
+
+----- Yesterday April 16th, 2016 -----
+
+IFTTT BOT [7:08 AM] 
+ 
+Rain tomorrow!
+Rain tomorrow!
+
+rhapsodyjs [11:22 AM] 
+!ㅁㄴ 동측 점심
+
+menubotBOT [11:22 AM] 
+동맛골: 점심
+<Set menu>
+소시지오므라이스
+크림스프
+두부도너츠
+단무지무침
+방울토마토
+
+rhapsodyjs [11:22 AM] 
+!ㅁㄴ 서측 점심
+
+menubotBOT [11:22 AM] 
+서맛골: 점심
+쌀밥
+순두부찌개
+돈육부추볶음
+맛살콘전*케찹
+시금치겉절이
+깍두기
+야채샐러드
+
+ntrolls [11:29 AM] 
+@rhapsodyjs: 결정은!?
+
+rhapsodyjs [11:36 AM] 
+음..
+
+[11:36] 
+!ㅁㄴ 교수회관 점심
+
+menubotBOT [11:36 AM] 
+교수회관(N6): 점심
+
+rhapsodyjs [11:36 AM] 
+큭
+
+[11:36] 
+주말엔 열지도 않는군요
+
+[11:36] 
+서측가려구요ㅎㅎ
+
+[11:37] 
+교수님 곧 비행기 타시나요?
+
+ntrolls [11:38 AM] 
+넵
+
+[11:38] 
+라운지 찬스를 이용하였으나… 시카고 공항 아시아나 라운지는 SAS랑 공용인데 너무 조촐해서 #fail
+
+[11:39] 
+다른 건 다 빈약하고...
+
+[11:39] 
+맥주는 그냥 냉장고에서 가져다 먹는 걸로… -_-;;
+
+rhapsodyjs [11:48 AM] 
+역시 공항은 인천공항이 짱인듯요 ㅋㅋ
+
+[11:48] 
+오시면 일요일 새벽이겠네요
+
+ntrolls [11:49 AM] 
+yup.
+
+rhapsodyjs [11:49 AM] 
+time flies
+
+[11:49] 
+조심히 오시길 ㅎㅎ
+
+ntrolls [11:49 AM] 
+왜 휴가가 짧았어요? -_-/
+
+rhapsodyjs [11:49 AM] 
+ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+
+[11:49] 
+휴가는요
+
+[11:49] 
+이번주 진짜 헬이었어요
+
+[11:49] 
+이성주교수님덕분에..
+
+bhyou [11:49 AM] 
+모바일 컴퓨팅?
+
+rhapsodyjs [11:50 AM] 
+ㅇㅇ
+
+[11:50] 
+배곺
+
+[11:50] 
+어서 준비하고 서측먹으러가야지..
+
+rhapsodyjs [5:54 PM] 
+!ㅁㄴ 동측 저녁
+
+[5:55] 
+!ㅁㄴ 동측 저녁
+
+menubotBOT [5:55 PM] 
+동맛골: 저녁
+<Set menu>
+(뚝)오징어덮밥
+다시마뭇국
+동그랑땡전
+계란찜
+아삭이고추된장무침
+배추겉절이
+
+
+----- Today April 17th, 2016 -----
+ntrolls [6:29 AM] 
+:airplane_arriving::metro::tram: to Daejeon!!
+
+rhapsodyjs [2:09 PM] 
+수고하셨슴니다ㅋㅋㅋ
+
+[2:09] 
+이제 일어난 1인..
+
+2 new messages since 2:09 PM
+About general
+Channel Details
+Pinned Items
+4/10 Members
+Shared Files
+Notification Preferences
+Desktop notifications
+Highlight words & @mentions
+Mobile push notifications
+Highlight words & @mentions
